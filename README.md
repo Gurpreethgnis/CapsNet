@@ -34,7 +34,7 @@ In the case of CapsNet, the output of each capsule is a vector quantity. Hence, 
 - https://github.com/XifengGuo/CapsNet-Keras
 - https://www.kaggle.com/kmader/capsulenet-on-mnist
 - https://github.com/gram-ai/capsule-networks
-
+- https://github.com/andreaazzini/capsnet.pytorch
 
 ## Links for the some slides and papers
 
