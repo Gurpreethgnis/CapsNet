@@ -21,23 +21,40 @@ In the case of CNN, maxpooling determines the flow of information between the la
 
 In the case of CapsNet, the output of each capsule is a vector quantity. Hence, this preserves the spatial relationship between the features in an image. A new routing mechnanism has been proposed to handle the flow of information between the capsules. The information from each capsule is routed to the next most similar capsule. A simpler analogy is hierarchical tree of the layers.
 
-Links for the papers
+
+Links for CapsNet implementation
+
+https://github.com/naturomics/CapsNet-Tensorflow
+https://github.com/llSourcell/capsule_networks
+https://github.com/XifengGuo/CapsNet-Keras
+https://www.kaggle.com/kmader/capsulenet-on-mnist
+
+Links for the some slides and papers
 
 https://arxiv.org/abs/1710.09829
-
-
+http://cseweb.ucsd.edu/~gary/cs200/s12/Hinton.pdf
+http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf
 
 Link for descriptive websites
 
 https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/
-
-
+https://medium.com/@Synced/hinton-proposes-capsnet-c04e8cec8bea
+https://medium.com/mlreview/deep-neural-network-capsules-137be2877d44
+https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc
+https://medium.com/syntropy-ai/how-do-humans-recognise-objects-from-different-angles-an-explanation-of-one-shot-learning-71887ab2e5b4
 
 Links for discussion forums
 
 https://www.reddit.com/r/MachineLearning/comments/78zvc4/r_171009829_dynamic_routing_between_capsules/
-
+https://discourse.numenta.org/t/hintons-capsule-and-what-is-wrong-with-convolutional-neural-nets/2899
+https://ai.stackexchange.com/questions/1294/how-does-hintons-capsules-theory-work/1313
 
 Links for informative videos
 
 Capsule Networks: An Improvement to Convolutional Networks By Siraj Raval : https://www.youtube.com/watch?v=VKoLGnq15RM and the code for the tensorflow implementation of the same is available at 
+Hinton's Capsule Theory: https://www.youtube.com/watch?v=rTawFwUvnLE&feature=youtu.be
+Hinton's talk on Deep Learning: https://www.youtube.com/watch?v=TFIMqt0yT2I
+
+Links for CapsNet applications
+
+https://becominghuman.ai/understand-and-apply-capsnet-on-traffic-sign-classification-a592e2d4a4ea
