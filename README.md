@@ -1,5 +1,9 @@
 # CapsNet or Capsule Networks
 
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=plastic)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=plastic)](https://opensource.org/licenses/Apache-2.0)
+
+
 Sabour et al. 2017: "A capsule is a group of neurons whose activity vector represents the instantiation parameters of a specific type of entity such as an object or object part."
 
 Capsule Networks are made of these capsules that have demonstrated the state-of-the-art performance for MNIST character recognition dataset. They are an improvement to the convolutional neural network because of the two following reasons
@@ -24,6 +28,8 @@ In the case of CapsNet, the output of each capsule is a vector quantity. Hence, 
 
 Links for CapsNet implementation
 
+https://github.com/soskek/dynamic_routing_between_capsules
+
 https://github.com/naturomics/CapsNet-Tensorflow
 
 https://github.com/llSourcell/capsule_networks
@@ -31,6 +37,11 @@ https://github.com/llSourcell/capsule_networks
 https://github.com/XifengGuo/CapsNet-Keras
 
 https://www.kaggle.com/kmader/capsulenet-on-mnist
+
+https://github.com/gram-ai/capsule-networks
+
+
+
 
 Links for the some slides and papers
 
@@ -42,6 +53,8 @@ http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf
 
 Link for descriptive websites
 
+https://blog.acolyer.org/2017/11/13/dynamic-routing-between-capsules/
+
 https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/
 
 https://medium.com/@Synced/hinton-proposes-capsnet-c04e8cec8bea
@@ -51,6 +64,11 @@ https://medium.com/mlreview/deep-neural-network-capsules-137be2877d44
 https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc
 
 https://medium.com/syntropy-ai/how-do-humans-recognise-objects-from-different-angles-an-explanation-of-one-shot-learning-71887ab2e5b4
+
+https://medium.com/@pprocks/dynamic-routing-between-capsules-explained-b4277226a467
+
+https://syncedreview.com/2017/10/27/hinton-proposes-capsnet/
+
 
 Links for discussion forums
 
